@@ -1,0 +1,19 @@
+{
+  "name": "sdr-waterfall-display-ts",
+  "version": "0.0.1",
+  "description": "Radio Waterfall Display on canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gardemming/sdr-waterfall-display-ts.git"
+  },
+  "author": "gardemming@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gardemming/sdr-waterfall-display-ts/issues"
+  },
+  "homepage": "https://github.com/gardemming/sdr-waterfall-display-ts#readme"
+}
